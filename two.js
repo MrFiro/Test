@@ -17,8 +17,8 @@ let pers = {
 
 let incr =10,
     decr =10;
-
-    //console.log(~(10));
+    
+//console.log(~(10));
 //incr++
 //decr--;
 //console.log(++incr);
